@@ -28,7 +28,6 @@ var data = [
 	['Lygia Clark','Bichos with other works','c. 1960','27'],
 	['Andy Warhol','6 Marilyns (Marilyn Six Pack)','1962','28'],
 	['Yoko Ono','Painting to be Constructed in Your Head','1962','29'],
-	['Yoko Ono','Painting to be Constructed in Your Head','1962','30'],
 	['Donald Judd','Untitled','1965','31'],
 	['Eva Hesse','Contingent','1969','32'],
 	['Adrian Piper','Mythic Being: I Embody Everything You Most Hate and Fear','1975','33'],
